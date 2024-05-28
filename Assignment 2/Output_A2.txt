@@ -1,0 +1,19 @@
+PS F:\Business Information Technology\Semester 2\Web Programming\WEB700> cd '.\Assignment 2' 
+PS F:\Business Information Technology\Semester 2\Web Programming\WEB700\Assignment 2> ls
+
+
+    Directory: F:\Business Information Technology\Semester 2\Web Programming\WEB700\Assignment 2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/28/2024  12:33 PM                data
+d-----         5/28/2024  12:33 PM                modules
+-a----         5/28/2024  12:48 PM           1654 a2.js
+
+
+PS F:\Business Information Technology\Semester 2\Web Programming\WEB700\Assignment 2> node .\a2.js
+Successfully retrieved 260 students
+Successfully retrieved 11 courses
+Successfully retrieved 30 TAs
+PS F:\Business Information Technology\Semester 2\Web Programming\WEB700\Assignment 2> 
