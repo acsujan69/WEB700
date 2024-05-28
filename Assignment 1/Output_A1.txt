@@ -1,0 +1,26 @@
+PS F:\Business Information Technology\Semester 2\Web Programming\Assignment\Assignment 1> node .\a1.js
+Hello World
+200: Welcome to WEB700 Assignment 1
+200: This assignment was prepared by Sujan Acharya
+200: Sujan Acharya: sacharya35@myseneca.ca
+200: User Logged In
+200: Main Panel
+200: Logout Complete
+404: Unable to process PUT request for /
+200: Main Panel
+404: Unable to process GET request for /login
+200: Main Panel
+404: Unable to process GET request for /login
+404: Unable to process GET request for /login
+404: Unable to process GET request for /login
+200: Welcome to WEB700 Assignment 1
+200: Main Panel
+200: Welcome to WEB700 Assignment 1
+200: Main Panel
+200: Main Panel
+404: Unable to process GET request for /randomPath1
+404: Unable to process GET request for /login
+200: Main Panel
+200: This assignment was prepared by Sujan Acharya
+404: Unable to process GET request for /login
+PS F:\Business Information Technology\Semester 2\Web Programming\Assignment\Assignment 1>
